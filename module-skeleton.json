@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-wordpress-migration-nuxt",
+  "capabilityKey": "liberusoftware/module-cms-wordpress-migration",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-cms-wordpress-migration-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/cms/nextjs/wordpress-migration.md",
+  "presentationPlan": "projects/cms/nuxt/wordpress-migration.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
